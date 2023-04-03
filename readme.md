@@ -1,8 +1,10 @@
-# <img src="icon.png"> promptstyle
+# promptstyle
 
 ![cover](./cover.png)
 
 ## About
+
+![icon](./icon.png)
 
 promptstyle is a simple [Batch script](https://en.wikipedia.org/wiki/Batch_script) that allows you to change the style of the prompt text in your Command Prompt.
 
