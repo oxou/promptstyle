@@ -1,4 +1,4 @@
-# promptstyle
+# <img src="icon.png"> promptstyle
 
 ![cover](./cover.png)
 
