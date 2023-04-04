@@ -8,7 +8,7 @@
 
 promptstyle is a simple [Batch script](https://en.wikipedia.org/wiki/Batch_script) that allows you to change the style of the prompt text in your Command Prompt.
 
-promptstyle ships with 20 styles which you can see in the cover image above.
+promptstyle ships with a couple of styles which you can see in the cover image above.
 
 ## Note
 
